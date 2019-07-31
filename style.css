@@ -1,6 +1,9 @@
 /* Colors and fonts */
 body {
-  background: #F7F9FC;
+  /*background: #F7F9FC;*/
+  background: linear-gradient(to right, #b2fcff, #5edfff);
+
+  /*background: #b2fcff;*/
   color: #575F7D;
   font-family: 'Lora', serif;
   font-size: 17px;
