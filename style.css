@@ -47,6 +47,28 @@ a:hover {
 .container {
   width: 700px;
   margin: 40px auto;
+  box-shadow: 0 10px 30px #2C75FF;
+}
+.card-white:hover {
+
+  background-color: #b2fcff;
+  color: black;
+  box-shadow: 0 60px 60px #2C75FF;
+
+}
+.gif-picture:hover {
+
+  background-color: #b2fcff;
+  color:black;
+  box-shadow: 0 10px 30px #2C75FF;
+
+}
+.card-last:hover {
+
+  background-color: #b2fcff;
+  color: black;
+  box-shadow: 0 10px 30px #2C75FF;
+
 }
 
 @media (max-width: 960px) {
@@ -72,15 +94,17 @@ a:hover {
 .card-white {
   background-color: white;
   padding: 40px;
-  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
+  box-shadow: 0 10px 30px #2C75FF;
+
+
 }
 .card-last {
   background-color: white;
   padding: 60px;
-  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 30px #2C75FF;
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
@@ -166,7 +190,7 @@ a:hover {
 .gif-picture {
   background-color: white;
   padding: 20px;
-  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 30px #2C75FF;
   border-radius: 4px;
   margin: 10px 10px;
   text-align: center;
